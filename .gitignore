@@ -1,7 +1,6 @@
 __pycache__/
 .venv/
 .pytest_cache/
-.coverage
 htmlcov/
 output.xml
 log.html
@@ -10,6 +9,6 @@ browser/
 playwright-log.txt
 uv.lock
 pyproject.toml
-src
 *.zip
 .python-version
+viikko1/nhl-statistics/.coveragerc
