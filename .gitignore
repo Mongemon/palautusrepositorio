@@ -8,3 +8,8 @@ log.html
 report.html
 browser/
 playwright-log.txt
+uv.lock
+pyproject.toml
+src
+*.zip
+.python-version
