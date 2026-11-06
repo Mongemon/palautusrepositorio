@@ -7,8 +7,8 @@ log.html
 report.html
 browser/
 playwright-log.txt
-uv.lock
-pyproject.toml
+#uv.lock
+#pyproject.toml
 *.zip
 .python-version
 viikko1/nhl-statistics/.coveragerc
